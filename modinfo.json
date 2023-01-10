@@ -1,17 +1,17 @@
 {
 	"author" : "flubb",
-	"build" : "99377",
+	"build" : "116400",
 	"category" : ["classic", "titans", "ui"],
 	"context" : "client",
-	"date" : "2017-01-16",
+	"date" : "2023-01-09",
 	"description" : "Removes Tutorial  & Player Guide buttons from the main menu.",
 	"display_name" : "No Tutorial Button",
 	"identifier" : "com.flubbateios.removeguide",
 	"forum" : "https://forums.uberent.com/threads/rel-no-tutorial-button.72271",
 	"signature" : "leaving this pointless field blank is very boring indeed.",
-	"version" : "1.0.3",
+	"version" : "2.0.0",
 	"scenes" : {
-		"start" : ["coui://ui/mods/com.flubbateios.removeguide/start.js"]
+		"start" : ["coui://ui/mods/com.pa.flubb.removeguide/start.js"]
 	}
 
 }
